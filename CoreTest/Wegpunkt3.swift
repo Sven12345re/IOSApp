@@ -7,3 +7,8 @@
 //
 
 import Foundation
+import MapKit
+
+class Wegpunkt3: MKPointAnnotation{
+    let nameDerAnnotation = "Wegpunkt3"
+}
